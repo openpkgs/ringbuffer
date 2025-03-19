@@ -14,7 +14,7 @@ go get -u github.com/openpkgs/ringbuffer
 
 Import Copier into your application to access its copying capabilities
 
-```sh 
+```go
 import (
 	"fmt"
 	
