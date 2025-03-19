@@ -1,4 +1,4 @@
-module ringbuffer
+module github.com/openpkgs/ringbuffer
 
 go 1.20
 
